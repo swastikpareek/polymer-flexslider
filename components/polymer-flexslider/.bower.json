@@ -1,0 +1,41 @@
+{
+  "name": "polymer-flexslider",
+  "main": [
+    "polymer-flexslider.html"
+  ],
+  "description": "Polymer Module which uses flexslide2 of woothemes",
+  "keywords": [
+    "flexslider",
+    "slider",
+    "flexslider",
+    "polymer",
+    "jquery",
+    "web-components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "flexslider": "^2.6.3"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/swastikpareek/polymer-flexslider",
+  "_release": "c206ee4099",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c206ee4099d65070cc2447a4ff0f3aeb0ce8f229"
+  },
+  "_source": "https://github.com/swastikpareek/polymer-flexslider.git",
+  "_target": "master",
+  "_originalSource": "swastikpareek/polymer-flexslider",
+  "_direct": true
+}
